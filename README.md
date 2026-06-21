@@ -81,7 +81,3 @@ pip install ultralytics opencv-python pillow matplotlib numpy pandas
 - Evaluation metrics printed per class
 - Annotated detection results on sample/test images
 - Rendered video with bounding box predictions on vehicles
-
-## License
-
-*(add your license here, e.g. MIT)*
