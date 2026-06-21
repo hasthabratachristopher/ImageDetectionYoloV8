@@ -3,6 +3,8 @@
 
 A vehicle detection project using **YOLOv8** to identify and classify different types of wheeled vehicles from image data.
 
+Zip File : https://drive.google.com/file/d/19N0DUpSXla8cmiOj86ioPhN-BfDVU20z/view?usp=sharing
+
 ## Overview
 
 This project trains an object detection model to detect and classify five vehicle classes from images: **Ambulans (Ambulance), Bis (Bus), Mobil (Car), Motor (Motorcycle), and Truk (Truck)**. The model is built on the YOLOv8n (nano) architecture using the Ultralytics library, trained on a labeled vehicle detection dataset, and evaluated on validation/test splits.
